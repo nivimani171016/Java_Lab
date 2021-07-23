@@ -16,7 +16,7 @@ public class _1_ArithmeticOperations_ {
 		System.out.println(d);
 		//Multiplication 
 		System.out.print("The multiplication of the given numbers is : ");
-		int e =a+b;
+		int e =a*b;
 		System.out.println(e);
 		//Division 
 		System.out.print("The division of the given number gives the quotient as :");
